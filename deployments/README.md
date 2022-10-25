@@ -1,0 +1,1 @@
+1. `kubectl create -f <deployment_name>`
